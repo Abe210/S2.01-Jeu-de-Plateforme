@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PirateBay2",
+            "request": "launch",
+            "mainClass": "PirateBay2",
+            "projectName": "sae2-sujet-10-plateforme-tp-3-wittmann-yifru-welty-rouillon"
+        },
+        {
+            "type": "java",
+            "name": "Launch PirateBay",
+            "request": "launch",
+            "mainClass": "PirateBay",
+            "projectName": "sae2-sujet-10-plateforme-tp-3-wittmann-yifru-welty-rouillon"
+        }
+    ]
+}
